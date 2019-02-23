@@ -1,0 +1,61 @@
+.............////@hotmail.com : Verification Fail:
+
+Invalid Email Structure
+
+----------------------------------
+ 
+ 
+asfasdf : Verification Fail:
+
+Invalid Email Structure
+
+----------------------------------
+ 
+ 
+asdfa@asfasdf.com : Verification Fail:
+
+Cannot verify 'asdfa@asfasdf.com'. Error Details:
+
+{ Error: queryMx ENODATA asfasdf.com
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:198:19)
+  errno: 'ENODATA',
+  code: 'ENODATA',
+  syscall: 'queryMx',
+  hostname: 'asfasdf.com' }
+----------------------------------
+ 
+ 
+asfda@asdfasdfasdf.co : Verification Fail:
+
+Cannot verify 'asfda@asdfasdfasdf.co'. Error Details:
+
+{ Error: queryMx ENOTFOUND asdfasdfasdf.co
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:198:19)
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND',
+  syscall: 'queryMx',
+  hostname: 'asdfasdfasdf.co' }
+----------------------------------
+ 
+ 
+a@gmail.com : Verification Fail:
+
+Verification Control Completed
+
+----------------------------------
+ 
+ 
+sahin8305@gmail.com : Verification Success:
+
+Verification Control Completed
+
+----------------------------------
+ 
+ 
+mustafa.sahin.co@gmail.com : Verification Success:
+
+Verification Control Completed
+
+----------------------------------
+ 
+ 
